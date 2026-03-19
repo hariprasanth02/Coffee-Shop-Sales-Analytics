@@ -123,7 +123,7 @@ coffee-shop-sales-dashboard/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/coffee-shop-sales-dashboard.git
+   git clone https://github.com/hariprasanth02/Coffee-Shop-Sales-Analytics.git
    ```
 2. Open `Coffee_Shop_Dashboard.xlsx` in **Microsoft Excel** (2016 or later recommended)
 3. Use the **Month Name** and **Day Name** slicers on the left panel to filter the dashboard dynamically
